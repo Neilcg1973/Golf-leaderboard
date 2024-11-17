@@ -1,120 +1,36 @@
 {
-  "scores": {
-    "Chris Hutcheon": [
-      NaN
-    ],
-    "Craig Hill": [
-      99.0
-    ],
-    "Graeme Scott": [
-      28.0
-    ],
-    "Ian Hill": [
-      NaN
-    ],
-    "Kevin Horgan": [
-      29.0,
-      35.0
-    ],
-    "Neil Gallacher": [
-      34.0,
-      35.0,
-      35.0
-    ],
-    "Philip Crabb": [
-      30.0,
-      33.0,
-      35.0
-    ],
-    "Steve Muir": [
-      27.0
-    ],
-    "Wayne Sutherland": [
-      NaN,
-      37.0,
-      36.0
-    ]
-  },
-  "averages": {
-    "Chris Hutcheon": {
-      "average": NaN,
-      "rounds_counted": 1,
-      "total_rounds": 1,
-      "scores_used": [
-        NaN
-      ]
-    },
-    "Craig Hill": {
-      "average": 99.0,
-      "rounds_counted": 1,
-      "total_rounds": 1,
-      "scores_used": [
-        99.0
-      ]
-    },
-    "Graeme Scott": {
-      "average": 28.0,
-      "rounds_counted": 1,
-      "total_rounds": 1,
-      "scores_used": [
-        28.0
-      ]
-    },
-    "Ian Hill": {
-      "average": NaN,
-      "rounds_counted": 1,
-      "total_rounds": 1,
-      "scores_used": [
-        NaN
-      ]
-    },
-    "Kevin Horgan": {
-      "average": 32.0,
-      "rounds_counted": 2,
-      "total_rounds": 2,
-      "scores_used": [
-        29.0,
-        35.0
-      ]
-    },
-    "Neil Gallacher": {
-      "average": 34.7,
-      "rounds_counted": 3,
-      "total_rounds": 3,
-      "scores_used": [
-        34.0,
-        35.0,
-        35.0
-      ]
-    },
-    "Philip Crabb": {
-      "average": 32.7,
-      "rounds_counted": 3,
-      "total_rounds": 3,
-      "scores_used": [
-        30.0,
-        33.0,
-        35.0
-      ]
-    },
-    "Steve Muir": {
-      "average": 27.0,
-      "rounds_counted": 1,
-      "total_rounds": 1,
-      "scores_used": [
-        27.0
-      ]
-    },
-    "Wayne Sutherland": {
-      "average": NaN,
-      "rounds_counted": 3,
-      "total_rounds": 3,
-      "scores_used": [
-        NaN,
-        37.0,
-        36.0
-      ]
-    }
-  },
-  "last_updated": "2024-11-17 14:45:06"
+  "Chris Hutcheon": [
+    NaN
+  ],
+  "Craig Hill": [
+    99.0
+  ],
+  "Graeme Scott": [
+    28.0
+  ],
+  "Ian Hill": [
+    NaN
+  ],
+  "Kevin Horgan": [
+    29.0,
+    35.0
+  ],
+  "Neil Gallacher": [
+    34.0,
+    35.0,
+    35.0
+  ],
+  "Philip Crabb": [
+    30.0,
+    33.0,
+    35.0
+  ],
+  "Steve Muir": [
+    27.0
+  ],
+  "Wayne Sutherland": [
+    NaN,
+    37.0,
+    36.0
+  ]
 }
