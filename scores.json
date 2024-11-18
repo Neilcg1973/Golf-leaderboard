@@ -1,0 +1,72 @@
+{
+  "Chris Hutcheon": {
+    "scores": [
+      NaN
+    ],
+    "average": NaN,
+    "scores_count": 1
+  },
+  "Craig Hill": {
+    "scores": [
+      99.0
+    ],
+    "average": 99.0,
+    "scores_count": 1
+  },
+  "Graeme Scott": {
+    "scores": [
+      28.0
+    ],
+    "average": 28.0,
+    "scores_count": 1
+  },
+  "Ian Hill": {
+    "scores": [
+      NaN
+    ],
+    "average": NaN,
+    "scores_count": 1
+  },
+  "Kevin Horgan": {
+    "scores": [
+      29.0,
+      35.0
+    ],
+    "average": 32.0,
+    "scores_count": 2
+  },
+  "Neil Gallacher": {
+    "scores": [
+      34.0,
+      35.0,
+      35.0
+    ],
+    "average": 34.7,
+    "scores_count": 3
+  },
+  "Philip Crabb": {
+    "scores": [
+      30.0,
+      33.0,
+      35.0
+    ],
+    "average": 32.7,
+    "scores_count": 3
+  },
+  "Steve Muir": {
+    "scores": [
+      27.0
+    ],
+    "average": 27.0,
+    "scores_count": 1
+  },
+  "Wayne Sutherland": {
+    "scores": [
+      36.0,
+      37.0,
+      NaN
+    ],
+    "average": NaN,
+    "scores_count": 3
+  }
+}
