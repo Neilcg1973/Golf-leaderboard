@@ -1,17 +1,13 @@
 {
   "Chris Hutcheon": {
-    "scores": [
-      NaN
-    ],
-    "average": NaN,
-    "scores_count": 1
+    "scores": [],
+    "average": null,
+    "scores_count": 0
   },
   "Craig Hill": {
-    "scores": [
-      NaN
-    ],
-    "average": NaN,
-    "scores_count": 1
+    "scores": [],
+    "average": null,
+    "scores_count": 0
   },
   "Graeme Scott": {
     "scores": [
@@ -21,11 +17,9 @@
     "scores_count": 1
   },
   "Ian Hill": {
-    "scores": [
-      NaN
-    ],
-    "average": NaN,
-    "scores_count": 1
+    "scores": [],
+    "average": null,
+    "scores_count": 0
   },
   "Kevin Horgan": {
     "scores": [
@@ -63,10 +57,9 @@
   "Wayne Sutherland": {
     "scores": [
       36.0,
-      37.0,
-      NaN
+      37.0
     ],
-    "average": NaN,
-    "scores_count": 3
+    "average": 36.5,
+    "scores_count": 2
   }
 }
